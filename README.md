@@ -14,9 +14,9 @@ To install the tool, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/blackhackwit/advanced-backdoor>
-Install the required dependencies:
-pip install -r requirements.txt
+git clone https://github.com/cypherdavy/Shadowfist.git
+
+
 Compile the code using pyarmor:
 pyarmor obfuscate __main__.py
 Usage
