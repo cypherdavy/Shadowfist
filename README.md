@@ -33,10 +33,4 @@ The keylogger will start recording the victim's keystrokes:
 [Keylogger] Password: mypassword123
 [Keylogger] Email: me@example.com
 [Keylogger] Gmail: mygmail@gmail.com
-Screenshots
-Here are some screenshots that show the tool in action:
-Installing dependecies
-Compiling code with pyarmor
-Starting the reverse shell listener
-Reverse shell connection
-Keylogger output
+
